@@ -1,0 +1,6 @@
+{
+    "orval": {
+        "runPreBuild": false
+    },
+    "url": "https://example.com"
+}
